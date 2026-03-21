@@ -131,10 +131,10 @@ Where:
 ## 📷 Results Visualization
 
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](/images/roc_curve.png)
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](/images/confusion_matrix.png)
 
 ---
 
@@ -170,7 +170,7 @@ Scikit-learn Documentation
 PyTorch Documentation
 
 ## 📷 Demo 
-![Dashboard](dashboard.png)
+![Dashboard](/images/dashboard.png)
 This project includes a **streamlit web application** that simulates the intrusion detection system:
 
 ### Features:
