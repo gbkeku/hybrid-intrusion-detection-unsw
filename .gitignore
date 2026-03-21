@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+models/*.pt
+models/*.joblib
+
+# Data 
+#data/*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
