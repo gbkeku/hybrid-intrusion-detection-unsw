@@ -182,5 +182,5 @@ This project includes a **streamlit web application** that simulates the intrusi
 - anomaly_score
 - fusion_score
 - prediction
-- Model details
+- model metrics
 - you can download predictions result in CSV
