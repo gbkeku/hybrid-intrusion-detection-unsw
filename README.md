@@ -178,7 +178,7 @@ This project includes a **streamlit web application** that simulates the intrusi
 - Preview dataset
 ---
 ### Generates:
-- upervised_score
+- supervised_score
 - anomaly_score
 - fusion_score
 - prediction
