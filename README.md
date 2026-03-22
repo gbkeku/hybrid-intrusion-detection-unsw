@@ -184,3 +184,7 @@ This project includes a **streamlit web application** that simulates the intrusi
 - prediction
 - model metrics
 - you can download predictions result in CSV
+  
+## ⭐ Key Achievement
+
+Hybrid Fusion improved Recall and F1-score over Random Forest, demonstrating better detection of malicious traffic.
